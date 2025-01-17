@@ -1,0 +1,20 @@
+# python -m venv .
+# env\Scripts\Activate.ps1 // powershell
+# env\Scripts\activate.bat // cmd prompt
+# pip install -r guideline.txt
+
+
+# Libraries
+setuptools
+black
+pre-commit
+flake8
+mypy
+mypy-extensions
+py
+pyflakes
+pytest
+tox
+types-setuptools
+typing_extensions
+colorama
